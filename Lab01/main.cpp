@@ -33,4 +33,3 @@ int main(int argc, const char * argv[]) {
     // Return the number 0
     return 0;
 }
-hello
